@@ -1,5 +1,5 @@
 #JavaFirstProject
+PS Assignments
 
-PS Week 1 Assignment
-
+Week_1:
 First Java Project using Maven.
